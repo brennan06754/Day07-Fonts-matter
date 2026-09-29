@@ -1,0 +1,11 @@
+body {
+    background-color: green;
+}
+.card {
+    background-color: pink;
+    border: 5px;
+    border-style: solid;
+    border-color:aquamarine;
+    margin: 28px;
+    padding: 5px; 
+}
